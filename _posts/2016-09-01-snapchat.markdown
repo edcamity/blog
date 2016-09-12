@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Story of Snapchat
+title: Snapping from Picaboo
 date: '2016-09-12 18:30:00'
 ---
 
